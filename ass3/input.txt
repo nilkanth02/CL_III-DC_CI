@@ -1,0 +1,3 @@
+This is an apple. Apple is red in color.
+
+Hello World! I'm Om Umrania a Final Year, Artificial Intelligence & Data Science Student.
